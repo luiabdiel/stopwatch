@@ -18,7 +18,7 @@ body {
   align-items: center;
   justify-content: center;
 
-  background: linear-gradient(90deg, #b8b8b8, #ffffff);
+  background: linear-gradient(90deg, #ffffff, #a8a0a0);
 }
 
 .wrapper {
@@ -34,8 +34,8 @@ body {
   align-items: center;
   justify-content: center;
 
-  border-radius: 10px;
-  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.2);
+  /* border-radius: 10px; */
+  box-shadow: 10px 10px 1px 0 rgba(250, 0, 0, 1);
 
   padding: 0 0.625rem;
 }
@@ -68,9 +68,9 @@ body {
 
   outline: none;
   border: none;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 
-  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 6px 6px 1px 0 rgba(250, 0, 0, 1);
 
   background-color: #fff;
   color: var(--colorButtons);
