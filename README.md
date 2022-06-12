@@ -12,7 +12,7 @@ Cronômetro Online
 
 ### Desktop
 
-![Design preview from the clock](./assets/images/cap-cronometro.png)
+![Design preview from the clock](./assets/images/cap-stopwatch.png)
 
 <p align="center">Cronômetro Online <a href="https://luiabdiel.github.io/stopwatch/" target="_blank">clique aqui </a>para visualiza-lo</p>
 <hr>

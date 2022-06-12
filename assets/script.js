@@ -1,7 +1,3 @@
-alert('Você deveria me valorizar mais, hein?')
-alert('vou a mimir')
-alert('Espero que goste <3')
-
 let hr = (min = sec = ms = '0' + 0),
   startTimer
 
